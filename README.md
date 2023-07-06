@@ -1,2 +1,2 @@
 # Click-Away
- Shopping Cart using HTML, CSS, Javascript, API and Local Storage
+ Deploy Link: https://click-away.netlify.app/
